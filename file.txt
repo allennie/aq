@@ -1,3 +1,8 @@
 line1
 line2
+<<<<<<< HEAD
 this
+=======
+
+added a line from github
+>>>>>>> f646d4c5d3f2a97b479b74533fd1ef6820bd1f63
