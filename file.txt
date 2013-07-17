@@ -5,4 +5,8 @@ this
 =======
 
 added a line from github
+<<<<<<< HEAD
 >>>>>>> f646d4c5d3f2a97b479b74533fd1ef6820bd1f63
+=======
+here I added another line from github
+>>>>>>> eca90d6eb8d404776d1b5d29e3d5cb0f8396c17b
